@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"outline.icons": true,
+		"window.autoDetectColorScheme": true,
+		"explorer.autoRevealExclude": {
+			"**/.pyc": true
+		},
+		"explorer.excludeGitIgnore": true,
+		"workbench.colorTheme": "Theme Flat"
+	}
+}
